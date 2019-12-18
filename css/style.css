@@ -1,0 +1,53 @@
+main{
+	background-color: orange;
+}
+.navbar{
+	border-radius:0px;
+	border:0px;
+}
+
+
+
+.navbar-inverse {
+   background-color: #ed9837;
+    border-color: #ed9837;
+}
+
+.navbar-inverse .navbar-brand{
+	color: #0f0f0f;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+	color: #0f0f0f;
+}
+
+.myBtn{
+	background-color:red;
+}
+
+.gallery{
+	width: 300px;
+	height: 300px;
+	border: 10px groove purple;
+}
+.body{
+	font-size: 24px;
+}
+p{
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+h2{
+	font-size: 24px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+h1{
+	font-size: 30px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+footer{
+	position: relative;
+}
